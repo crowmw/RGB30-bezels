@@ -2,7 +2,27 @@
 
 Set of RGB30 bezels. Based on @fabiodotcom set.
 
-![bezels screens](bezels.png "Bezels")
+<table>
+    <tr>
+        <td><img src="bezels/gb.png" /></td>
+        <td><img src="bezels/gbc.png" /></td>
+    </tr>
+        <tr>
+        <td><img src="bezels/gba.png" /></td>
+        <td><img src="bezels/nes.png" /></td>
+    </tr>
+        <tr>
+        <td><img src="bezels/pegasus.png" /></td>
+        <td><img src="bezels/psx.png" /></td>
+    </tr>
+        <tr>
+        <td><img src="bezels/segadc.png" /></td>
+        <td><img src="bezels/segagenesis.png" /></td>
+    </tr>
+        <tr>
+        <td><img src="bezels/segamd.png" /></td>
+    </tr>
+</table>
 
 ## Setup
 
